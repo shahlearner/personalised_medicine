@@ -13,7 +13,7 @@ Problem Statement: A cancer tumor can have thousands of genetic mutations. But t
 ############################# Instructions to run the code #################
 
 1. Place all the files in this repository in your current working directory
-2. xyz are data files.
+2. Data can be downloaded from https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 3. Run exploratory_part.R for data visualisation and insights.
 4. The report file personalized_medicine_project.docx contains the analysis done during the course of the project.
 5. Run final_code_change.R for data preparation and model building. The output accuracy is stored in predictions_result.xls
